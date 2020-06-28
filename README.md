@@ -1,4 +1,4 @@
-A Node.js CLI tool based on Puppeteer for crawling overtime pay information from HR system (Apollo XE)
+A Node.js CLI tool based on Puppeteer for crawling overtime pay information from HR system ([Apollo XE](https://auth.mayohr.com/HRM/Account/Login?original_target=https%3A%2F%2Fhrm.mayohr.com%2Fta%2Fpersonal%2FFormApplyRecord%2Fovertimestatistics&lang=zh-tw))
 
 <img src="https://github.com/dylan237/images_source/blob/master/1593360220897.jpg?raw=true" width="60%" height="auto"/>
 
