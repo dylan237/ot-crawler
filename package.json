@@ -1,0 +1,23 @@
+{
+  "name": "ot-crawler",
+  "version": "1.0.0",
+  "description": "A Node.js CLI tool based on Puppeteer for crawling overtime pay information from HR system (Apollo XE)",
+  "author": "Dylan Liu",
+  "main": "ot-crawler.js",
+  "dependencies": {
+    "chalk": "^4.1.0",
+    "cheerio": "^1.0.0-rc.3",
+    "cli-progress": "^3.8.2",
+    "cli-table3": "^0.6.0",
+    "figlet": "^1.4.0",
+    "inquirer": "^7.2.0",
+    "number-precision": "^1.5.0",
+    "puppeteer": "^4.0.1",
+    "shelljs": "^0.8.4"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "query": "node ot-crawler.js"
+  },
+  "license": "ISC"
+}
