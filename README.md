@@ -9,7 +9,7 @@ A Node.js CLI tool based on Puppeteer for crawling overtime pay information from
 1. Clone from the Github repository
 
    ```bash
-   git clone
+   git clone https://github.com/dylan237/ot-crawler.git
    ```
 
 2. Install dependencies
